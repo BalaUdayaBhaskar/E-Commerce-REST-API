@@ -1,0 +1,19 @@
+# Python cached files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Database
+db.sqlite3
+
+# Environment variables / Secrets
+.env
+
+# Media & Static (Optional but recommended)
+media/
+staticfiles/
+
+# Virtual Environment
+env/
+venv/
+.venv/
